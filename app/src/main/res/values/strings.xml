@@ -13,4 +13,5 @@
   <string name="random_quote_tooltip">Display random quote</string>
   <string name="search_title_format">Search: %s</string>
   <string name="search_all">All quotes</string>
+  <string name="authentication_error">Unable to authenticate user</string>
 </resources>
